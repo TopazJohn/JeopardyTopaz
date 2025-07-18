@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "name": "Cold Calling",
+      "questions": [
+        { "points": 100, "question": "What are two key pieces of info you must uncover in every cold call?", "phone": "236-464-7068" },
+        { "points": 200, "question": "Identify the decision maker in this company. Cold call: 310-953-4952", "phone": "310-953-4952" },
+        { "points": 300, "question": "Find out their current provider and biggest frustration. Call: 236-464-7068", "phone": "236-464-7068" }
+      ]
+    },
+    {
+      "name": "Topaz Product Knowledge",
+      "questions": [
+        { "points": 100, "question": "What is the shelf life of Topaz Drug Test kits?" },
+        { "points": 200, "question": "What differentiates Topaz's lab confirmation process from others?" },
+        { "points": 300, "question": "List two benefits of Topaz oral vs urine drug tests." }
+      ]
+    },
+    {
+      "name": "Industry Lingo",
+      "questions": [
+        { "points": 100, "question": "What does 'POCT' stand for?" },
+        { "points": 200, "question": "Explain 'Chain of Custody' in drug testing." },
+        { "points": 300, "question": "What is 'pre-employment' vs 'post-incident' testing?" }
+      ]
+    },
+    {
+      "name": "Speed Round: Rebuttals",
+      "questions": [
+        { "points": 100, "question": "Rebuttal: 'We’re happy with our current provider.'" },
+        { "points": 200, "question": "Rebuttal: 'Too expensive.'" },
+        { "points": 300, "question": "Rebuttal: 'I don’t have time to talk right now.'" }
+      ]
+    }
+  ],
+  "dailyDouble": { "category": 1, "question": 2 }
+}
