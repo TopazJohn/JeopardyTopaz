@@ -65,18 +65,4 @@
       {
         "value": 100,
         "question": "Customer says: 'I’m happy with my current provider.' What’s your rebuttal?",
-        "answer": "That's great, but would you be open to reviewing if you could save money or time?"
-      },
-      {
-        "value": 200,
-        "question": "Customer says: 'I’m too busy to look at this.' What’s your rebuttal?",
-        "answer": "That's exactly why I’m reaching out — this will take 2 minutes and could save you hours each month."
-      },
-      {
-        "value": 300,
-        "question": "Customer says: 'Your price is too high.' What’s your rebuttal?",
-        "answer": "Actually, our clients typically save 30–50% overall by factoring in reduced lab fees and admin costs."
-      }
-    ]
-  }
-]
+        "answer": "That's great
