@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Cold Calling",
+    "questions": [
+      {
+        "value": 100,
+        "question": "What is the key qualifying information you should uncover in every cold call?",
+        "answer": "Who they currently use, number of employees, testing frequency."
+      },
+      {
+        "value": 200,
+        "question": "Which number should you call during this round?",
+        "answer": "236-464-7068"
+      },
+      {
+        "value": 300,
+        "question": "Which alternative number can be used during this round?",
+        "answer": "310-953-4952"
+      }
+    ]
+  },
+  {
+    "category": "Topaz Product Knowledge",
+    "questions": [
+      {
+        "value": 100,
+        "question": "What type of drug testing devices does Topaz sell?",
+        "answer": "Rapid point-of-care urine and saliva tests."
+      },
+      {
+        "value": 200,
+        "question": "How many drugs are covered in Topaz 12-panel test kits?",
+        "answer": "12 drugs, including THC, Cocaine, Opiates, and Methamphetamine."
+      },
+      {
+        "value": 300,
+        "question": "What's a key value proposition of Topaz products compared to lab tests?",
+        "answer": "Faster results, cost savings, and immediate decision-making."
+      }
+    ]
+  },
+  {
+    "category": "Industry Lingo",
+    "questions": [
+      {
+        "value": 100,
+        "question": "What does 'POCT' stand for in drug testing?",
+        "answer": "Point of Care Testing"
+      },
+      {
+        "value": 200,
+        "question": "What is 'adulteration' in drug screening?",
+        "answer": "Tampering with a sample to falsify test results."
+      },
+      {
+        "value": 300,
+        "question": "What does 'MRO' stand for in workplace testing programs?",
+        "answer": "Medical Review Officer"
+      }
+    ]
+  },
+  {
+    "category": "Speed Round: Rebuttals",
+    "questions": [
+      {
+        "value": 100,
+        "question": "Customer says: 'I’m happy with my current provider.' What’s your rebuttal?",
+        "answer": "That's great, but would you be open to reviewing if you could save money or time?"
+      },
+      {
+        "value": 200,
+        "question": "Customer says: 'I’m too busy to look at this.' What’s your rebuttal?",
+        "answer": "That's exactly why I’m reaching out — this will take 2 minutes and could save you hours each month."
+      },
+      {
+        "value": 300,
+        "question": "Customer says: 'Your price is too high.' What’s your rebuttal?",
+        "answer": "Actually, our clients typically save 30–50% overall by factoring in reduced lab fees and admin costs."
+      }
+    ]
+  }
+]
